@@ -19,5 +19,6 @@ Changes in Version 2.1
 9. Added 3 simple reports
 10. Created tab for FitAnalysis
 11. Created app for FitAnalysis
+12. Created permission set, FitAnalysis User. If you don't see the new app and tab, add the permission set to your login
 
  
